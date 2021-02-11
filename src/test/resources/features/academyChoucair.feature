@@ -9,7 +9,7 @@ Feature: Academy Choucair
         | 1007027699 | Choucair2021*        |
         When he search for the course on the choucair academy platform
         | strCourse     |
-        | Bancolombia   |
+        | Foundation Express   |
         Then he finds the course called resources
         | strWord       |
-        | Búsqueda global |
+        | Foundation Express |
